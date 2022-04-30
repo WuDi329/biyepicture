@@ -16,4 +16,8 @@ https://www.cnblogs.com/arnoldlu/p/6241297.html
 
 
 
-为什么平均是0 https://stackoverflow.com/questions/21138012/usr-bin-time-always-give-0-for-average-resident-set-size
+为什么/usr/bin/time测量出来的平均内存占用是0 https://stackoverflow.com/questions/21138012/usr-bin-time-always-give-0-for-average-resident-set-size
+
+
+
+perf的有关cache的事件：https://stackoverflow.com/questions/12601474/what-are-perf-cache-events-meaning

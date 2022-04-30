@@ -21,3 +21,7 @@ https://www.cnblogs.com/arnoldlu/p/6241297.html
 
 
 perf的有关cache的事件：https://stackoverflow.com/questions/12601474/what-are-perf-cache-events-meaning
+
+
+
+问题：是不是测量内存空间时，pss比RSS更具有参考价值呢？

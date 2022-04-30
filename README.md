@@ -13,3 +13,7 @@
 找到一篇还可以的中文perf教程：https://blog.csdn.net/jasonactions/article/details/109332167
 
 https://www.cnblogs.com/arnoldlu/p/6241297.html
+
+
+
+为什么平均是0 https://stackoverflow.com/questions/21138012/usr-bin-time-always-give-0-for-average-resident-set-size

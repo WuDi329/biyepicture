@@ -26,5 +26,10 @@ https://echarts.apache.org/en/index.html echarts官网，主要修改option就�
 
 https://www.w3schools.com/js/ js官网，能自己试，主要可以看看各个js是干嘛的
 
+## ip
+sudo apt install net-tools
+ifconfig -a
+
+
 
 

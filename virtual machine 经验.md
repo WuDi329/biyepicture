@@ -31,5 +31,15 @@ sudo apt install net-tools
 ifconfig -a
 
 
+## sqlite
+sudo apt install sqlite3
+
+should install an visualize tool
+
+
+## run the shell
+use os.system()  tongbude
+
+
 
 

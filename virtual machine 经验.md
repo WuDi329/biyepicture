@@ -42,4 +42,27 @@ use os.system()  tongbude
 
 
 
+## haowen
+
+http://zhengheng.me/2015/11/12/perf-stat/ 讲述了很多指标的意义
+
+![image-20220510171445200](virtual machine 经验.assets/image-20220510171445200.png)
+
+![image-20220510171524014](virtual machine 经验.assets/image-20220510171524014.png)
+
+可参考的输出
+
+![image-20220510192219400](virtual machine 经验.assets/image-20220510192219400.png)
+
+![image-20220510192526410](virtual machine 经验.assets/image-20220510192526410.png)
+
+![image-20220510192559637](virtual machine 经验.assets/image-20220510192559637.png)
+
+
+
+perf stat -e task-clock,instructions,branches,branch-misses,L1-dcache-loads,L1-dcache-load-misses,LLC-loads,LLC-load-misses,L1-icache-load-misses,dTLB-loads,dTLB-load-misses,iTLB-load-misses
+
+
+
+
 

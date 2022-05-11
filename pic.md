@@ -47,3 +47,33 @@
 ![image-20220430144433614](pic.assets/image-20220430144433614.png)
 
 ![image-20220430144551701](pic.assets/image-20220430144551701.png)
+
+
+
+perf add confirm
+
+![image-20220511115800176](pic.assets/image-20220511115800176.png)
+
+
+
+perf add loading
+
+![image-20220511115833457](pic.assets/image-20220511115833457.png)
+
+
+
+time add loading
+
+![image-20220511120053305](pic.assets/image-20220511120053305.png)
+
+
+
+time add confirm
+
+![image-20220511120116147](pic.assets/image-20220511120116147.png)
+
+
+
+size add confirm
+
+![image-20220511120156668](pic.assets/image-20220511120156668.png)

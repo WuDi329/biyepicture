@@ -66,3 +66,10 @@ perf stat -e task-clock,instructions,branches,branch-misses,L1-dcache-loads,L1-d
 
 
 
+安装valgrind和massif-visualizer
+
+可能要改sources.list
+
+time的代码大概率要改
+
+今天计划：弄懂昨晚“试试”里的东西，找3个例子把第3章节写完
